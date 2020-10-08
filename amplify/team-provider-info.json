@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-agencyjekyllthememas-dev-144510-authRole",
+      "UnauthRoleArn": "arn:aws:iam::818314982005:role/amplify-agencyjekyllthememas-dev-144510-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::818314982005:role/amplify-agencyjekyllthememas-dev-144510-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-agencyjekyllthememas-dev-144510-deployment",
+      "UnauthRoleName": "amplify-agencyjekyllthememas-dev-144510-unauthRole",
+      "StackName": "amplify-agencyjekyllthememas-dev-144510",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:818314982005:stack/amplify-agencyjekyllthememas-dev-144510/6ec4c331-0929-11eb-9567-06df870004ce",
+      "AmplifyAppId": "d2yyugn6fj89kh"
+    }
+  }
+}
