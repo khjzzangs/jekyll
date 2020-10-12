@@ -5,8 +5,8 @@ header:
     buttonlink: "#services"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "우리의 기술"
+    text: ""
     section: services
     list:
       - title: "E-Commerce"
@@ -20,8 +20,8 @@ services:
         icon: fab fa-markdown
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "포트폴리오"
+    # text: "."
     section: portfolio
     closebutton: "Close Project"
     
@@ -81,41 +81,32 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "팀"
+    text: "팀을 소개합니다. "
+    # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "SlowStarter"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        # social:
+        #  - url: https://twitter.com
+        #    icon: fab fa-twitter
+        #  - url: https://facebook.com
+        #    icon: fab fa-facebook-f
+        #  - url: https://linkedin.com
+        #    icon: fab fa-linkedin-in
+      - name: "Nyangarch"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
+        # social:
+        #  - url: https://twitter.com
+        #    icon: fab fa-twitter
+        #  - url: https://facebook.com
+        #    icon: fab fa-facebook-f
+        #  - url: https://linkedin.com
+        #    icon: fab fa-linkedin-in
+     
           
 contact:
     title: "Contact Us"
