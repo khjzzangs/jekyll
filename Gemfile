@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 #gemspec
 
-gem "jekyll", "4.1.1"
+gem "jekyll", "4.2.0"
 gem "jekyll-agency"
 
 # Delete the following lines if not on Windows: 
